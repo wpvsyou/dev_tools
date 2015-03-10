@@ -19,3 +19,4 @@
 
 3.  All of the directory must be change to your own directory.
 
+4.  From url : http://www.th7.cn/system/lin/201412/78112.shtml
