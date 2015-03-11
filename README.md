@@ -1,2 +1,1 @@
-手动安装ctags插件：
-sudo apt-get install ctags
+1. jeffy-vim-read  Vim playin tools. 

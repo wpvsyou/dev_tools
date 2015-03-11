@@ -19,4 +19,7 @@
 
 3.  All of the directory must be change to your own directory.
 
-4.  From url : http://www.th7.cn/system/lin/201412/78112.shtml
+4.  After install this playin, you should install ctags by yourself.
+		a. sudo apt-get install ctags
+
+5.  From url : http://www.th7.cn/system/lin/201412/78112.shtml
